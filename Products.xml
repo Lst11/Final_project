@@ -1,0 +1,66 @@
+<?java.xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<root>
+    <name>Super shop</name>
+    <location>Minsk</location>
+    <emails>sgasdg@gmail.com</emails>
+    <emails>aaaaasfs@gmail.com</emails>
+    <emails>bbbesfwef@gmail.com</emails>
+    <goodsOfShop>
+        <goods>
+            <name>CD player</name>
+            <description>Super CD player SONY</description>
+            <date>2004-10-25</date>
+            <price>45</price>
+            <group>electronic</group>
+            <marks>5,5,4</marks>
+        </goods>
+        <goods>
+            <name>Car BMW</name>
+            <description>Silver car</description>
+            <date>2010-10-25</date>
+            <price>534</price>
+            <group>car</group>
+            <marks>9,10,8,2,5</marks>
+
+        </goods>
+        <goods>
+            <name>Milk</name>
+            <description>Milk 3.5%</description>
+            <date>2012-10-25</date>
+            <price>12</price>
+            <group>food</group>
+            <marks>9,7</marks>
+        </goods>
+        <goods>
+            <name>Bag</name>
+            <description>Super bag for notebook</description>
+            <date>2015-10-25</date>
+            <price>34</price>
+            <group>clothes</group>
+            <marks>8,6,4,8</marks>
+        </goods>
+        <goods>
+            <name>Bus</name>
+            <desciption>Big bus</desciption>
+            <date>2007-10-25</date>
+            <price>54</price>
+            <group>car</group>
+            <marks>9,9,5,1</marks>
+        </goods>
+        <goods>
+            <name>Dress</name>
+            <description>Red dress</description>
+            <date>2018-13-07</date>
+            <price>54</price>
+            <group>clothes</group>
+            <marks>1,8,9,4</marks>
+        </goods>
+    </goodsOfShop>
+</root>

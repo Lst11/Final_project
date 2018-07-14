@@ -1,0 +1,59 @@
+{
+  "name": "Super shop",
+  "location": "Minsk",
+  "emails": [
+    "sgasdg@gmail.com",
+    "aaaaasfs@gmail.com",
+    "bbbesfwef@gmail.com"
+  ],
+  "goods": [
+    {
+      "name": "CD player",
+      "description": "Super CD player SONY",
+      "date": "2004-10-25",
+      "price": 45,
+      "group": "electronic",
+      "marks": "5,5,4"
+    },
+    {
+      "name": "Car BMW",
+      "description": "Silver car",
+      "date": "2010-10-25",
+      "price": 534,
+      "group": "car",
+      "marks": "9,10,8,2,5"
+    },
+    {
+      "name": "Milk",
+      "description": "Milk 3.5%",
+      "date": "2012-10-25",
+      "price": 12,
+      "group": "food",
+      "marks": "9,7"
+    },
+    {
+      "name": "Bag",
+      "description": "Super bag for notebook",
+      "date": "2015-10-25",
+      "price": 34,
+      "group": "clothes",
+      "marks": "8,6,4,8"
+    },
+    {
+      "name": "Bus",
+      "description": "Big bus",
+      "date": "2007-10-25",
+      "price": 54,
+      "group": "car",
+      "marks": "9,9,5,1"
+    },
+    {
+      "name": "Dress",
+      "description": "Red dress",
+      "date": "2018-13-07",
+      "price": 54,
+      "group": "clothes",
+      "marks": "1,8,9,4"
+    }
+  ]
+}
